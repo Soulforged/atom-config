@@ -1,0 +1,12 @@
+"*":
+  welcome:
+    showOnStartup: false
+  editor:
+    fontSize: 10
+    invisibles:
+      {}
+    tabLength: 4
+  core:
+    {}
+  linter:
+    {}

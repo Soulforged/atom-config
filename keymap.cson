@@ -1,0 +1,8 @@
+'atom-text-editor:not([mini])':
+  'ctrl-d': 'editor:delete-line',
+'atom-text-editor':
+  'ctrl-F': 'formatter:format-code',
+'atom-workspace atom-text-editor:not([mini])':
+  'alt-down': 'editor:move-line-down',
+'atom-workspace atom-text-editor:not([mini])':
+  'alt-up': 'editor:move-line-up'
